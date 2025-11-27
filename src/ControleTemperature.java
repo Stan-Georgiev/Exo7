@@ -6,7 +6,7 @@ public class ControleTemperature implements IServiceThermostat, IServiceTemperat
 
     @Override
     public void demarrerChauffage() {
-
+        //
     }
 
     @Override
